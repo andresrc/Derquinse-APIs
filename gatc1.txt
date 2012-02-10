@@ -1,6 +1,3 @@
-<html>
-<head>
-<title>Derquinse APIs</title>
 <!-- Begin GATC1 -->
 <script type="text/javascript">
 
@@ -15,11 +12,3 @@
   })();
 </script>
 <!-- End GATC1 -->
-</head>
-<body>
-<ul>
-<li><a href="derquinse-common/">Derquinse Commons</a></li>
-<li><a href="conquiris/">Conquiris</a></li>
-<li><a href="bocas/">Derquinse Bocas</a></li>
-</body>
-</html>
