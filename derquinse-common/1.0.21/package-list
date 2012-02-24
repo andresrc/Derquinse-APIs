@@ -1,0 +1,17 @@
+net.derquinse.common.base
+net.derquinse.common.collect
+net.derquinse.common.gson
+net.derquinse.common.i18n
+net.derquinse.common.io
+net.derquinse.common.jaxrs
+net.derquinse.common.jaxrs.gson
+net.derquinse.common.log
+net.derquinse.common.meta
+net.derquinse.common.orm
+net.derquinse.common.orm.hib
+net.derquinse.common.reflect
+net.derquinse.common.test
+net.derquinse.common.test.h2
+net.derquinse.common.util.concurrent
+net.derquinse.common.util.zip
+net.derquinse.common.uuid
