@@ -1,0 +1,13 @@
+net.conquiris.api.index
+net.conquiris.api.search
+net.conquiris.gson
+net.conquiris.index
+net.conquiris.jersey
+net.conquiris.jersey.client
+net.conquiris.jersey.server
+net.conquiris.lucene
+net.conquiris.lucene.document
+net.conquiris.lucene.index
+net.conquiris.lucene.search
+net.conquiris.schema
+net.conquiris.search
